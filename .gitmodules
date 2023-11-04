@@ -1,0 +1,3 @@
+[submodule "GenesisForgeDemo/GenesisForge"]
+	path = GenesisForgeDemo/GenesisForge
+	url = https://github.com/Im-Rises/GenesisForge.git
